@@ -1,6 +1,6 @@
 const clientId = '2fd4a15af17142f798858638ce6ec2e9'; // removed for forum post
 
-const redirectUri = 'http:mighty-bite.surge.sh';
+const redirectUri = 'http://mighty-bite.surge.sh';
 
 let accessToken;
 
